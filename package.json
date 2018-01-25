@@ -1,0 +1,23 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "学习node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PN-linshifeng/node-study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PN-linshifeng/node-study/issues"
+  },
+  "homepage": "https://github.com/PN-linshifeng/node-study#readme",
+  "devDependencies": {
+    "iconv-lite": "^0.4.19",
+    "nodemon": "^1.14.3"
+  }
+}
